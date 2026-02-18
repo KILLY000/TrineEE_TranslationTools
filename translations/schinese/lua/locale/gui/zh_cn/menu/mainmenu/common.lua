@@ -1,0 +1,36 @@
+-- /data/locale/gui/$$/menu/mainmenu/common.lua
+
+buttonBack = "返回"
+buttonOk = "好"
+buttonClose = "关闭"
+
+buttonNoText = ""
+headerNoText = ""
+
+infoEmpty = ""
+infoEmpty0 = ""
+infoEmpty1 = ""
+infoEmpty2 = ""
+infoEmpty3 = ""
+infoEmpty4 = ""
+infoEmpty5 = ""
+infoEmptyA = ""
+infoEmptyB = ""
+infoEmptyC = ""
+
+infoEmptyLine = ""
+infoEmptyLine0 = ""
+infoEmptyLine1 = ""
+infoEmptyLine2 = ""
+infoEmptyLine3 = ""
+infoEmptyLine4 = ""
+infoEmptyLine5 = ""
+infoEmptyLineA = ""
+infoEmptyLineB = ""
+infoEmptyLineC = ""
+
+profile1 = "存档栏位1"
+profile2 = "存档栏位2"
+profile3 = "存档栏位3"
+profile4 = "存档栏位4"
+profile5 = "存档栏位5"

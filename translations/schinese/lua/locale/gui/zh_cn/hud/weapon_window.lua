@@ -1,0 +1,16 @@
+-- /data/locale/gui/$$/hud/weapon_window.lua
+
+warrior_weapon_sword_line_1 = "宝剑"
+warrior_weapon_sword_line_2 = "盾牌"
+warrior_weapon_firesword_line_1 = "用剑击杀"
+warrior_weapon_firesword_line_2 = "使用盾牌"
+warrior_weapon_hammer_line_1 = "风暴"
+warrior_weapon_hammer_line_2 = "之锤"
+thief_weapon_bow_line_1 = "弓箭"
+thief_weapon_bow_line_2 = ""
+thief_weapon_firebow_line_1 = "火焰箭"
+thief_weapon_firebow_line_2 = ""
+thief_weapon_icebow_line_1 = "冰冻箭"
+thief_weapon_icebow_line_2 = ""
+thief_weapon_lga_line_1 = "低重力区域"
+thief_weapon_lga_line_2 = "主动箭矢"

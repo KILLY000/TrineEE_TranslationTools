@@ -1,0 +1,37 @@
+-- /data/locale/gui/$$/menu/mainmenu/mainmenu.lua
+
+headerMainMenu = ""
+
+buttonStartDemoPS3 = "开始试玩"
+buttonStartDemoXbox360 = "开始试玩"
+buttonStartDemoWindows = "开始试玩"
+buttonStartDemoOther = "开始试玩"
+buttonContinue = "返回游戏"
+buttonSinglePlayer = "单人游戏"
+buttonMultiplayer = "多人游戏"
+buttonHelpAndOptions = "帮助和选项"
+buttonAchievements = "游戏成就"
+buttonAchievementsPlaystation3 = "奖杯"
+buttonAchievementsPS4 = "奖杯"
+buttonAchievementsWiiU = "奖杯"
+buttonUnlockFullGame = "解锁完整版游戏"
+buttonDownloadContent = "可下载内容(DLC)"
+buttonDownloadContentPC = "可下载内容"
+buttonDeveloperMenu = "制作人员"
+buttonLeaderboards = "排行榜"
+buttonQuit = "离开游戏"
+buttonInvitations = "邀请"
+
+popupLoadingSave = "正在读取上次存档点...@"
+popupQuitGame = "你确定要离开游戏吗?"
+
+buttonE3WiiUStartLevel1 = "寂静荒野"
+buttonE3WiiUStartLevel2 = "死亡尘地"
+
+buttonWiiUStartStartDemo = "开始试玩"
+buttonWiiUPlay = "开始"
+buttonWiiUSettings = "游戏设置"
+buttonWiiUAchievementsAndExtras = "成就 & 额外内容"
+buttonWiiUUnlockFullGame = "解锁完整版游戏"
+buttonWiiUDownloadContent = "下载内容"
+buttonWiiUQuit = "退出游戏"
